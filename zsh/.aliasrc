@@ -1,0 +1,16 @@
+#!/bin/bash
+
+alias ts="trizen -S --noconfirm"
+alias tss="trizen -Ss"
+alias tsyu="trizen -Syu --noconfirm"
+alias tr="trizen -Rsncdd"
+alias pmro="pacman -Qtdq | sudo pacman -Rns -"
+
+alias v="nvim"
+alias vim="nvim"
+
+alias pyenv="python -m venv venv"
+alias venv="source venv/bin/activate"
+
+alias ls="exa"
+alias q="exit"
