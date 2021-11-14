@@ -269,7 +269,7 @@ nvim_treesitter.setup {
     -- "make",
     -- "markdown",
     "python",
-    "rust",
+    -- "rust",
     "toml",
     "typescript",
     "yaml",
